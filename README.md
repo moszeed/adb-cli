@@ -24,7 +24,8 @@ to enable multi device support.
         //do a adb call
         adb_cli.call({
             command : 'your adb command',
-            program : 'or your program'
+            program : 'or your program',
+            output  : 'display message true/false'
         });
 
         //get connected phones as array
