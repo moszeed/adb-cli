@@ -13,8 +13,8 @@ to enable multi device support.
 
     adb-cli //for adb help
 
-    adb-cli command  //adb-cli get-serialno" to get serialno of connected phones
-    adb-cli program  //abd-cli cordova.bat launch to launch cordova app on all connected phones (windows)
+    adb-cli command  //example: adb-cli get-serialno to get serialno of connected phones
+    adb-cli program  //example: abd-cli cordova.bat launch to launch cordova app on all connected phones (windows)
 
 
 @your NodeJS Project:
